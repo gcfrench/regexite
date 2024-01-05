@@ -1,4 +1,4 @@
-Package: regexite
+Package: regexcite
 Title: Make Regular Expressions More Exciting
 Version: 0.0.0.9000
 Authors@R: 
@@ -14,5 +14,5 @@ Suggests:
 Config/testthat/edition: 3
 Imports: 
     stringr
-URL: https://github.com/gcfrench/regexite
-BugReports: https://github.com/gcfrench/regexite/issues
+URL: https://github.com/gcfrench/regexcite
+BugReports: https://github.com/gcfrench/regexcite/issues

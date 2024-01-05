@@ -52,7 +52,7 @@ output is inconvenient, i.e. we want the un-listed version.
 That’s exactly what `regexcite::str_split_one()` does.
 
 ``` r
-library(regexite)
+library(regexcite)
 
 str_split_one(x, pattern = ",")
 #> [1] "alfa"    "bravo"   "charlie" "delta"
